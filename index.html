@@ -1,0 +1,97 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AZ kvíz</title>
+    <style>
+        /* https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/ */
+        .main {
+            display: flex;
+            --rows: 7;
+            --size: calc(100vh / var(--rows));
+            --margin: 4px;
+            --float: calc(1.732 * var(--size) + 4 * var(--margin) - 1px);
+            --max-width: calc(var(--rows) * (var(--size) + 2 * var(--margin)));
+        }
+        .container {
+            font-size: 0; /*disable white space between inline block element */
+            max-width: var(--max-width);
+            margin: 0 auto;
+        }
+        .hex {
+            width: var(--size);
+            margin: var(--margin);
+            height: calc(var(--size) * 1.1547);
+            display: inline-block;
+            font-size: initial;
+            clip-path: polygon(0% 25%, 0% 75%, 50% 100%, 100% 75%, 100% 25%, 50% 0%);
+            background: black;
+            margin-bottom: calc(var(--margin) - var(--size) * 0.2885);
+        }
+        .content {
+            position: relative;
+            top: 50%;
+            transform: translateY(-50%);
+            text-align: center;
+            font-size: 1.5em;
+            color: white;
+        }
+        .container::before {
+            content: '';
+            width: clamp(0px, (var(--max-width) - 100%) * 1000, calc(var(--size) / 2 + var(--margin)));
+            float: left;
+            height: 120%;
+            shape-outside: repeating-linear-gradient(#0000 0 calc(var(--float) - 3px), #000 0 var(--float));
+        }
+        .container i::before,
+        .container i::after {
+            content: '';
+            width: clamp(0px, (100% - var(--max-width) + 1px) * 1000, calc(50% - var(--margin) - var(--size) / 2));
+            float: left;
+            height: calc(var(--float) * (var(--rows) - 1) / 2);
+            shape-outside: linear-gradient(to bottom right, #000 50%, #0000 0);
+        }
+        .container i::after {
+            float: right;
+            shape-outside: linear-gradient(to bottom left, #000 49%, #0000 0);
+        }
+    </style>
+</head>
+<body>
+<div class="main">
+    <div class="container">
+        <i></i>
+        <div class="hex"><div class="content">1</div></div>
+        <div class="hex"><div class="content">2</div></div>
+        <div class="hex"><div class="content">3</div></div>
+        <div class="hex"><div class="content">4</div></div>
+        <div class="hex"><div class="content">5</div></div>
+        <div class="hex"><div class="content">6</div></div>
+        <div class="hex"><div class="content">7</div></div>
+        <div class="hex"><div class="content">8</div></div>
+        <div class="hex"><div class="content">9</div></div>
+        <div class="hex"><div class="content">10</div></div>
+        <div class="hex"><div class="content">11</div></div>
+        <div class="hex"><div class="content">12</div></div>
+        <div class="hex"><div class="content">13</div></div>
+        <div class="hex"><div class="content">14</div></div>
+        <div class="hex"><div class="content">15</div></div>
+        <div class="hex"><div class="content">16</div></div>
+        <div class="hex"><div class="content">17</div></div>
+        <div class="hex"><div class="content">18</div></div>
+        <div class="hex"><div class="content">19</div></div>
+        <div class="hex"><div class="content">20</div></div>
+        <div class="hex"><div class="content">21</div></div>
+        <div class="hex"><div class="content">22</div></div>
+        <div class="hex"><div class="content">23</div></div>
+        <div class="hex"><div class="content">24</div></div>
+        <div class="hex"><div class="content">25</div></div>
+        <div class="hex"><div class="content">26</div></div>
+        <div class="hex"><div class="content">27</div></div>
+        <div class="hex"><div class="content">28</div></div>
+    </div>
+</div>
+</body>
+</html>
