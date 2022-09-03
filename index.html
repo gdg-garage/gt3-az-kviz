@@ -79,7 +79,7 @@
             margin-right: auto;
             border-radius: 1em;
             margin-top: 200px;
-            width: 800px;
+            width: 1000px;
             background-color: rgba(255, 255, 255, 0.8);
             border: .2em solid rgba(0, 0, 0, 0.8);
             padding: 1em;
@@ -103,6 +103,15 @@
         #answer {
             display: none;
         }
+        .panel {
+            text-align: center;
+            border-bottom: 1px solid black;
+            margin-bottom: .5em;
+        }
+        .panel div {
+            display: inline-block;
+        }
+
     </style>
 </head>
 <body>
@@ -195,10 +204,14 @@
         </div>
     </div>
     <div id="question">
-        <div id="number"></div>
+        <div class="panel">
+            <div id="number"></div> -
+            <div id="timer"></div>
+        </div>
         <div id="question-text"></div>
         <div id="answer"></div>
         <div class="buttons">
+            <div id="time" class="button">Time</div>
             <div id="answer-button" class="button">Answer</div>
             <div id="orange" class="button">Orange</div>
             <div id="blue" class="button">Blue</div>
