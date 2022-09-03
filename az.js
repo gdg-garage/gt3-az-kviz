@@ -1,10 +1,6 @@
 var time = 60;
 var intervalId;
 
-function question() {
-    alert("a");
-}
-
 function getQuestion() {
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open( "GET", "http://localhost:8080/question", false);
