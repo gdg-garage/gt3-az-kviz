@@ -8,7 +8,7 @@ function getQuestion() {
         xmlHttp.send( null );
         return JSON.parse(xmlHttp.responseText);
     } catch {
-        return {"question": "nebezi ti server vole", "answer": "si kokot"}
+        return {"question": "ERROR: sever is not running", "answer": "..."}
     }
 }
 
