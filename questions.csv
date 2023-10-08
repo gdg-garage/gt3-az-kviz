@@ -1,110 +1,104 @@
-field,question,answer,short
-Google,Jak se jmenují oba zakladatelé Google?,Larry Page a Sergey Brin,LPSB
-,V jakém městě je Google HQ?,Mountain View,MV
-,Název Google vznikl zkomolením jakého matematického výrazu?,googol,G
-,Jakého výrobce telefonů Google koupil v roce 2012?,Motorola,M
-,"Jak se jmenuje Google X projekt, který je o konektivitě z balónů?",Loon,L
-,Jak se jmenuje nejznámnější machine learning framework od Google?,TensorFlow,
-Linux,Jaký linuxový příkaz ukáže poslední řádky souboru?,tail,T
-,Kdo vytvořil Linux?,Linus Torvalds,LT
-,Jak se jmenují dva nejznámnější desktop prostředí v Linuxu?,Gnome a KDE,
-,"Jak se v Linuxu jmenuje soubor, do kterého když zapíšete tak je to ztraceno?",/dev/null,
-,Jaký linuxový příkaz smaže celý filesystem bez ptaní?,rm -rf,
-,Jaký číselný kód pro příkaz chmod otevře práva úplně všem na všechno?,777,
-Windows,"Jaká byla první mainstream verze Windows, která měla grafické prostředí?",Windows 3.1,
-,Kam se ve Windows zapisují různé systémové proměnné a pokročilá nastavení?,registry,R
-,"V jakém americkém státě je kopec, známý z wallpaperu na Windows XP?",Kalifornie,K
-,Jaká verze Windows je nejvíc nechvalně proslulá?,Windows Vista,WV
-,"Jak se jmenovalo grafické rozhraní, které mělo nahradit nabídku start ve Windows?",metro,M
-,Jak se jmenovala postavička ve tvaru kancelářské sponky v angličtině?,Clippy,
-Apple,Jak se jmenuje druhý nejznámější zakladatel Apple po Jobsovi?,Steve Wozniak,SW
-,V kterém roce byl představen první iPhone?,2007,
-,Podle čeho jsou pojmenované verze MacOS od roku 2014?,místa v kalifornii,K
-,"Jak se jmenovala firma, kterou Apple koupil a díky tomu se do firmy dostal zpět Steve Jobs?",NeXT,N
-,"Jak se jmenuje nástroj na testování iOS aplikací před releasem, dříve samostatná firma?",TestFlight,TF
-,Jak se jmenuje nejnovější čip přímo navržený pro Apple?,M2,
-Networking,"Jak se jmenuje známý síťový protokol, který nedělá konfirmace doručení packetu?",UDP,
-,Jakou IP adresu má localhost?,127.0.0.1,
-,Jakým příkazem zjistíte cestu k nějaké IP adrese?,traceroute,T
-,Jakou IP adresu má DNS od Google?,8.8.8.8 (případně 8.8.4.4.),
-,Na jaké frekvenci běží Wi-fi B a G?,2.4 Ghz,
-,Jaký má význam HTTP status 418?,I'm a teapot,
-Gaming,Podle jaké hry byl natočen seriál Arcane?,League of Legends,
-,Čím se proslavil Gándí ve hrách Civilizace?,házením atomovek,
-,Counter-Strike byl původně mod na jakou hru?,Half-Life,HL
-,Která hra jako první masově rozšířila open-world crafting survival žánr?,Minecraft,M
-,Jaká je šance na získání izotopu U-235 při zpracování uranu ve hře Factorio?,0.7%,
-,Jak se jmenuje hlavní hrdina ve hře Kingdom Come: Deliverance?,Henry (from Skalitz),
-Elon's companies,"Co znamená zkratka BFR, původní označení Starshipu?",Big Fucking Rocket nebo Big Falcon Rocket,
-,Prodejem jaké firmy se Elon Musk stal milionářem?,PayPal,
-,Jaký model Tesly obíhá kolem Slunce mezi Marsem a Zemí?,Tesla Roadster,
-,"Z jakého místa se SpaceX podařilo odpálit raketu, která poprvé dosáhla orbity?","Marshallovy ostrovy, stačí ""ostrov v pacifiku""",
-,Proč se Tesla Model 3 měl původně jmenovat Model E?,Aby první 4 modely daly dohromady slovo SEXY,
-,"Jak se jmenuje Elonova firma, která má za cíl propojení člověka a AI přímým napojením na mozek?",Neuralink,
-programming languages,"Jak se jmenuje programovací jazyk, který je záměrně tak minimalistický, až je nečitelný?",brainfuck,
-,Jak se jmenuje IDE pro tvorbu grafických aplikací v jazyce Pascal?,Delphi,
-,Co znamená v programování zkratka DI?,Depencency injection,
-,Co znamená v programování zkratka DRY?,Don't repeat yourself,
-,"Jak se říká v Kotlinu operátoru ""?:""?",Elvis operátor,
-,"Jak se říká kódu, který je tak provázaný a složitý, že jakákoliv změna je hodně drahá a pravděpodobně způsobí bugy?",spaghetti code,
-Android,Jaký je dezertový název Androidu 4.1.?,Jelly Bean,
-,"Kdo se proslavil v Android komunitě mnoha knihovnami, např. ActionBarSherlock?",Jake Wharton,
-,"Jaká byla verze Androidu, která první přinesla podporu tabletů?",Honeycomb,
-,Pro co byl původně Android určený před akvizicí Google?,digitální fotoaparáty,
-,Jak se jmenuje zakladatel Androidu?,Andy Rubin,
-,Jak se v nastavení Androidu můžete stát vývojářem?,Desetkrát tapnout na Build version,
-web (technologies),Čeho je zkratka HTML?,Hyper Text Markup Language,
-,Který prohlížeč jako první přinesl Javascript?,Netscape,
-,Jak se nastaví tučné písmo v CSS?,font-weight: bold,
-,Jaký JS framework přinesl funkci $()?,JQuery,
-,Jaká organizace zastřešuje webové standardy?,W3C,
-,Jak vznikl název prohlížeče Mozilla?,Mosaic (rozšířený prohlížeč té doby) + killer,
-people (famous in tech like CEOs and dev stars),Ktery programator musel podstoupit chemickou kastraci?,Alan Turing,
-,"Jak se jmenuje zakladatel open-source, konkrétně GNU projektu?",Richard Stallman,
-,"Komu se říká ""otec internetu""?",Vint Cerf,
-,Kdo byla první programátorka?,Ada Lovelace,
-,Jak se jmenuje hlavní vývojář hry Quake a Doom?,John Carmack,
-,Jak se jmenuje zakladatel projektu GDG Garage?,Filip Hráček,
-"well known algorithm facts (complexities, names)",Jakou nejhorší časovou komplexitu má BubbleSort?,O(n^2),
-,Jakou nejhorší časovou komplexitu má HeapSort?,O(n*log(n)),
-,Jak se jmenuje nejznámnější algoritmus pro hledání cesty mezi 2 body v grafu?,Dijkstrův algoritmus,
-,"Jak se jmenuje třída problémů, která nejde spočítat v polynomiálním čase?",NP,
-,"Jak se jmenuje problém, který má nalézt nejkratší cestu mezi všemi body na mapě?","Problém obchodního cestujícího, TSP",
-,"Jak se jmenuje stromová datová struktura, kde potomci jsou vždycky menší než rodiče?",Halda (heap),
-"famous tech projects (Winamp, total Commander, uTorrent, Facebook)",Jak se jmenuje první rozšířený program na přehrávání MP3 na Windows?,Winamp,
-,"Jak se jmenuje správce souborů na Windows, který jako první přinesl dvě okna vedle sebe?",Total Commander,
-,"Jak se jmenuje první rozšířený program na stahování torrentů, který se nemusel instalovat a snadno se používal?",uTorrent,
-,"Jak se jmenoval předchůdce Facebooku, který porovnával fotografie studentů a hodnotilo se, kdo je atraktivnější?",FaceMash,
-,"Jak se jmenoval první rozšířený version control systém, předchůdce gitu?",SVN nebo Subversion,
-,Jak se jmenuje nejznámější IDE firmy Jetbrains?,IntelliJ IDEA,
-"unit conversions (mb, kbs, 2^8)",Kolik je 1 mebibyte v kibibyte?,1024,
-,1 MB je 2 na kolikátou bajtů?,20,
-,101010 je kolik decimálně?,42,
-,1 Gbps je kolik Mbps?,1000,
-,EE v hexa je kolik binárně?,11101110,
-,Kolik MB se stáhne rychlostí 150KB/s za 20 minut? ,180,
-famous tech fails,Kolik stálo Google Glass?,$1500,
-,"Mars Client orbiter selhal, protože se zrychlení počítalo v jiných jednotkách. Jaké to byly místo newton-seconds^2?",pound-seconds^2,
-,Nexus Q byl nepovedený předchůdce čeho?,Chromecast,
-,"Arriane 5 explodovala, protože se software snažil dostat 64 bitovou hodnotu do kolika bitů?",16,
-,"Na konci seriálu Silicon Valley Gillfoyle změnil frekvenci zvuku, který přilákal co do eventové haly?",krysy,
-,"Explozím raket se vtipně říká RUD, co ta zkratka znamená?",Rapid Unscheduled Dissasembly,
-"what does a piece of code return to
-(unexpected cases e.q. from js)",10' - 3 in JS?,7,
-,10' + 3 in JS?,103,
-,0 > null in JS?,false,
-,0 >= null in JS?,true,
-,NaN == NaN in JS?,false,
-,"""b"" + ""a"" + +""a"" + ""a""; in JS?",baNaNa,
-important events,Jak se jmenuje hlavní vývojářská konference Google?,Google I/O,
-,Jak se jmenuje hlavní vývojářská konference Apple?,WWDC,
-,Jak se jmenuje hlavní vývojářská konference Microsoftu?,Microsoft Build,
-,Jak se jmenuje série konferencí organizovaná GDGs?,DevFest,
-,Jak se jmenuje největší série konferencí o Androidu?,DroidCon,
-,Jak se jmenuje největší konference o webu v Česku?,WebExpo,
-Seriály a film,Kolik očí má Leela ze seriálu Futurama? ,1,
-,Jaké je příjmení Fran ze seriálu Black Books a co to česky znamená? ,"Katzenjammer, německy kocovina ",
-,Který seriál se v České televizi vysílal pod názvem Perníkový Táta? ,Breaking bad,
-,Jak se jmenuje závěrečná píseň z filmu Život Briana? ,Always look on the bright side of life,
-,V jakém autě jezdí BoJack Horseman ve stejnojmenném seriálu? Stačí značka. ,"Tesla S, žlutý kabriolet",
-,"V epizodě Nosedive seriálu Black Mirror si postava půjčí auto, které na ni mluví česky. Co auto při nastartování říká? ","""Ahoj, řiď opatrně""",
+question,answer
+What prevents Python to run multiple threads at the same time?,Global Interpreter Lock (GIL)
+"In context of HTTP requests, some actions can be repeated multiple times without changing the result. What is the name for this property?",Idempotence
+What do you call a large list of precomputed hashes and matching values?,Rainbow table
+"What is the keyword that ends a ""case"" statemant in Bash",esac
+"What is the keyword that ends an ""if"" statemant in Bash",fi
+What is the name for this piece of shell code :(){ :|:& };:,"fork bomb (calls itself twice, recursively, results in DoS)"
+"What game was developed by programmer with pseudonym ""Notch"" and later sold to Microsoft?",Minecraft
+Who is the CEO of OpenAI?,Sam Altman
+What is the name of paperclip appearing in Microsoft Office 97-03 ,Clippy the paperclip
+What is the name of the original algorithm behind Google search?,PageRank
+What famous highly optimized algorithm was used in Quake III Arena?,Fast inverse square root
+"What is the name of the data structure that stores elements in a last-in, first-out (LIFO) order?",Stack
+"What is the name of the data structure that stores elements in a first-in, first-out (FIFO) order?",Queue
+What is the name for critical unrecoverable Windows error?,Blue Screen Of Death
+What is the name of the command in Linux used to create a new directory?,mkdir
+Which programming language was created by Google in 2009?,Go
+Which programming language was created by Mozilla in 2010?,Rust
+Which Linux distribution is Ubuntu based on?,Debian
+Which Linux distribution is famous for NOT having any graphical installation tool?,Arch Linux
+Which Linux distribution is famous for NOT providing precompiled packages?,Gentoo Linux
+Which company is developing Ubuntu Linux distribution?,Canoncial Ltd.
+What is the name of a famous path-finding graph algorithm named after its author?,Dijkstra
+What are the four properties of ACID in the context of databases?,"Atomicity, Consistency, Isolation, Durability"
+What are the three properties of databases in CAP theorem?,"Consistency, Availability, Partition Tolerance (Partitioning)"
+What CPU architecture was used in PlayStation 3 and Macintosh computers until 2006?,PowerPC
+What C compiler is developed by GNU Project / Free Software Foundation?,GCC
+What C compiler is developed by Apple Inc.?,Clang (LLVM)
+What is the name of Facebook's first virtual reality headset?,Oculus Rift
+What is the name of the programming language developed by James Gosling at Sun Microsystems in the mid-1990s?,Java
+What is the name of the programming language developed by Guido van Rossum in the late 1980s?,Python
+What is the name of the computer programming language developed by Bjarne Stroustrup at Bell Labs in the 1980s?,C++
+What is the name of the command in Linux used to update access and modification times of files?,touch
+"Who is the creator of the video game engines used in Doom, Quake, and Rage?",John Carmack
+"Who created the TeX typesetting system and wrote ""The Art of Computer Programming"" book series?",Donald Knuth
+Which woman invented programming languages and compilers? She created COBOL.,Grace Hopper
+Which git subcommand that can be used to jump between branches was added to git in 2019?,git switch
+What two common git operations can you use to get changes from one git branch to another?,"Merge, Rebase, (Cherry-pick and Diff apply are also technically correct)"
+Which company has first started using the term Pull Request?,GitHub
+"What feature, introduced in CSS3, makes it easier to align and center elements?","flex, Flexbox, Flexible Box Layout module"
+What is the name of Apple's first virtual reality headset?,Vision Pro
+"Carl Pei, the co-founder of OnePlus, left OnePlus and founded a new brand making earbuds and smartphones in 2021? Which brand?",Nothing
+"When running out of memory, Linux will attempt to free up memory by terminating processes. How is this mechanism is called?",Out-of-memory (OOM) killer
+What is the name of the first company from the TV show Silicon Valley founded by Richard Hendricks?,Pied Piper
+What is the name of the law which states that the number of transistors on computer chips doubles approximately every two years?,Moore's Law
+What is the name of the popular virtualization software developed by Oracle?,VirtualBox
+What does NT in Windows NT and NTFS stand for?,New Technology
+What was the original maximum character limit for a tweet on Twitter?,140 characters
+What is the name of the AI-powered code completion tool developed by Microsoft and OpenAI that was released in 2021?,GitHub Copilot
+What programming language is named after a type of Indonesian coffee?,Java
+"Originally, Android was not developed as a smartphone OS. What devices was Android developed for?",Cameras
+What do you call the creature in the GitHub logo?,Octocat
+What was the first game developed by Valve?,Half-Life
+"In 2010, the U.S. Air Force used over 1,000 game consoles to build a supercomputer: Which consoles they used?",PlayStation 3 (I would not require the version)
+Which company invented the hard disk drive and introduced first commercial HDD in 1956?,IBM
+"What is the origin of the word ""spam"" in the context of email spam?",A Monty Python skit (from the 70s)
+Which product for managing and sending email was introduced in 2014 and then later killed in 2018 by Google?,Google Inbox
+What is the world's best-selling PC game?,Minecraft
+Google Chrome has a hidden mini-game that involves what creature?,A dinosaur (T-rex)
+What is the capacity of standard 3.5-inch floppy disks?,1.44 MB
+What is the name of the most common open-source package manager on macOS?,Homebrew
+Which popular command line editor uses Escape key to switch between different editing modes?,vim
+Which popular command line editor is known for its extensibility was created by Richard Stallman in 1976?,emacs
+Who is widely regarded as the first computer programmer?,Ada Lovelace
+What JavaScript operator compares two values without performing type coercion? I.e. without automatic type conversion,"""==="""
+"Which language has ""unsafe"" keyword that allows programmer to do operations that are otherwise forbidden for safety reasons?",Rust
+Which brand of phones and tablets was made by Google in collaboration with other hardware manufacturers?,Google Nexus
+"What is the brand of phones, other electronics and accessories made by Google?",Google Pixel
+What is the name of popular open-source graphing tool that uses DOT language for describing graphs?,Graphviz
+Which popular library provides developers with more direct access to NVIDIA GPU capabilities? ,CUDA
+Which company is maintaining CentOS and Fedora Linux distributions?,"Red Hat, Inc."
+What do you call a random input added to hash functions to defend against dictionary attacks and precomputed hash tables?,Salt
+"Which movie has popularized the number 42 as ""an answer to everything""?",The Hitchhiker's Guide to the Galaxy / Stopařův průvodce po galaxii
+Which language uses the following operator to declare and initialize a new variable? :=,Go
+"Which language uses convention that methods ending with ""?"" return boolean values and methods ending with ""!"" mutate the instance?",Ruby
+What is the name of webcomic created by Randall Monroe?,xkcd
+What does the abbreviation IT stand for?,Information Technology
+"What does the abbreviation GIF, the image format, stand for?",Graphics Interchange Format
+What does the abbreviation DNS stand for?,Domain Name System
+What does the abbreviation SSH stand for?,Secure SHell
+What are the four operations in CRUD acronym?,"Create, Read, Update, and Delete"
+"In context of text or document editors, what does the abbreviation WYSIWYG stand for?",What You See Is What You Get
+GNU project is responsible for many contributions to Linux operating systems. What does the abbreviation GNU stand for?,GNU's Not Unix
+Which technology has replaced BIOS in newer motherboards?,UEFI
+What does the abbreviation USB stand for?,Universal Serial Bus
+What is the name of car infotainment software used to connect to Android smartphones?,Android Auto
+What is the name of car infotainment software used to connect to Apple iPhones?,CarPlay
+You have 3 hard drives in RAID 5? Each disk is 1 TB. How much available space do you have?,"2TB (one disk for parity, rest for data)"
+You have 3 hard drives in RAID 1? Each disk is 1 TB. How much available space do you have?,1TB (all disks are fully mirrored)
+What is a common name for a keyboard size that doesn't include the number pad but keeps function keys and arrow keys?,"Tenkeyless, TKL (""ten keys less""), (""85% keyboard"" is technically correct)"
+Which type of premium keyboard keycaps uses two different kind of plastic for labels and one for the keycap itself?,Double-shot keycaps
+"What does the abbreviation RAM, the computer component, stand for?",Random Access Memory
+What does the abbreviation ISP stand for?,Internet Service Provider
+What is the default Windows command line shell since Windows 10?,Windows PowerShell
+What should you use to protect forms on your website from cross site request forgery attacks?,CSRF token
+Which Linux command is used to change permissions on a file?,chmod
+Which git subcommand applies selected commit on a current branch?,git cherry-pick
+"In context of web security, what does XSS abbreviation stand for?",Cross-Site Scripting
+Which is the latest HTML version?,HTML5
+Which is the latest CSS version?,CSS3
+What does HTTP abbrevition stand for?,HyperText Transfer Protocol
+What does EULA abbreviation stand for?,End User License Agreement
+What does JSON abbreviation stand for?,JavaScript Object Notation
+"What does UPS, the device with batteries, stand for?",Uninterruptible Power Supply

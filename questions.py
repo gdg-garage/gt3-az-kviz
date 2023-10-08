@@ -43,7 +43,7 @@ def question():
 
     questions = filter_used(load_questions())
     print(f"questions left {len(questions)}")
-    random.shuffle(questions)
+    # random.shuffle(questions)
     q = questions.pop(0)
     mark_used(q["id"])
     return json.dumps({"question": q["question"], "answer": q["answer"]})
