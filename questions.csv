@@ -1,104 +1,104 @@
-question,answer
-"What is the keyword that ends a ""case"" statemant in Bash",esac
-Which Linux distribution is Ubuntu based on?,Debian
-What does the abbreviation ISP stand for?,Internet Service Provider
-What does HTTP abbrevition stand for?,HyperText Transfer Protocol
-"What does the abbreviation GIF, the image format, stand for?",Graphics Interchange Format
-You have 3 hard drives in RAID 5? Each disk is 1 TB. How much available space do you have?,"2TB (one disk for parity, rest for data)"
-Which Linux command is used to change permissions on a file?,chmod
-"In context of HTTP requests, some actions can be repeated multiple times without changing the result. What is the name for this property?",Idempotence
-Google Chrome has a hidden mini-game that involves what creature?,A dinosaur (T-rex)
-What do you call a random input added to hash functions to defend against dictionary attacks and precomputed hash tables?,Salt
-"Carl Pei, the co-founder of OnePlus, left OnePlus and founded a new brand making earbuds and smartphones in 2021? Which brand?",Nothing
-"In context of text or document editors, what does the abbreviation WYSIWYG stand for?",What You See Is What You Get
-Which woman invented programming languages and compilers? She created COBOL.,Grace Hopper
-Which Linux distribution is famous for NOT providing precompiled packages?,Gentoo Linux
-What is the capacity of standard 3.5-inch floppy disks?,1.44 MB
-What C compiler is developed by Apple Inc.?,Clang (LLVM)
-What was the first game developed by Valve?,Half-Life
-"Who is the creator of the video game engines used in Doom, Quake, and Rage?",John Carmack
-"What game was developed by programmer with pseudonym ""Notch"" and later sold to Microsoft?",Minecraft
-You have 3 hard drives in RAID 1? Each disk is 1 TB. How much available space do you have?,1TB (all disks are fully mirrored)
-What is the name of paperclip appearing in Microsoft Office 97-03 ,Clippy the paperclip
-"Which movie has popularized the number 42 as ""an answer to everything""?",The Hitchhiker's Guide to the Galaxy / Stopařův průvodce po galaxii
-What programming language is named after a type of Indonesian coffee?,Java
-"What does UPS, the device with batteries, stand for?",Uninterruptible Power Supply
-What is the name of the law which states that the number of transistors on computer chips doubles approximately every two years?,Moore's Law
-What is the name of the command in Linux used to create a new directory?,mkdir
-What is the name of the computer programming language developed by Bjarne Stroustrup at Bell Labs in the 1980s?,C++
-What should you use to protect forms on your website from cross site request forgery attacks?,CSRF token
-"Which language has ""unsafe"" keyword that allows programmer to do operations that are otherwise forbidden for safety reasons?",Rust
-What does EULA abbreviation stand for?,End User License Agreement
-What is the name of popular open-source graphing tool that uses DOT language for describing graphs?,Graphviz
-Which language uses the following operator to declare and initialize a new variable? :=,Go
-What is the name of Facebook's first virtual reality headset?,Oculus Rift
-Which Linux distribution is famous for NOT having any graphical installation tool?,Arch Linux
-Which company has first started using the term Pull Request?,GitHub
-Who is widely regarded as the first computer programmer?,Ada Lovelace
-What famous highly optimized algorithm was used in Quake III Arena?,Fast inverse square root
-"What is the brand of phones, other electronics and accessories made by Google?",Google Pixel
-Which product for managing and sending email was introduced in 2014 and then later killed in 2018 by Google?,Google Inbox
-What are the four operations in CRUD acronym?,"Create, Read, Update, and Delete"
-What is the name of the programming language developed by Guido van Rossum in the late 1980s?,Python
-What two common git operations can you use to get changes from one git branch to another?,"Merge, Rebase, (Cherry-pick and Diff apply are also technically correct)"
-Which company invented the hard disk drive and introduced first commercial HDD in 1956?,IBM
-"What is the origin of the word ""spam"" in the context of email spam?",A Monty Python skit (from the 70s)
-What is the name of a famous path-finding graph algorithm named after its author?,Dijkstra
-What do you call a large list of precomputed hashes and matching values?,Rainbow table
-What is the name of the popular virtualization software developed by Oracle?,VirtualBox
-What is the default Windows command line shell since Windows 10?,Windows PowerShell
-What is a common name for a keyboard size that doesn't include the number pad but keeps function keys and arrow keys?,"Tenkeyless, TKL (""ten keys less""), (""85% keyboard"" is technically correct)"
-"Who created the TeX typesetting system and wrote ""The Art of Computer Programming"" book series?",Donald Knuth
-Which type of premium keyboard keycaps uses two different kind of plastic for labels and one for the keycap itself?,Double-shot keycaps
-GNU project is responsible for many contributions to Linux operating systems. What does the abbreviation GNU stand for?,GNU's Not Unix
-What does NT in Windows NT and NTFS stand for?,New Technology
-What are the three properties of databases in CAP theorem?,"Consistency, Availability, Partition Tolerance (Partitioning)"
-What is the name of the AI-powered code completion tool developed by Microsoft and OpenAI that was released in 2021?,GitHub Copilot
-What is the name of the programming language developed by James Gosling at Sun Microsystems in the mid-1990s?,Java
-Which company is developing Ubuntu Linux distribution?,Canoncial Ltd.
-Which is the latest CSS version?,CSS3
-"In context of web security, what does XSS abbreviation stand for?",Cross-Site Scripting
-Which company is maintaining CentOS and Fedora Linux distributions?,"Red Hat, Inc."
-"Which language uses convention that methods ending with ""?"" return boolean values and methods ending with ""!"" mutate the instance?",Ruby
-What is the name of car infotainment software used to connect to Apple iPhones?,CarPlay
-What is the name of the command in Linux used to update access and modification times of files?,touch
-"When running out of memory, Linux will attempt to free up memory by terminating processes. How is this mechanism is called?",Out-of-memory (OOM) killer
-Which git subcommand that can be used to jump between branches was added to git in 2019?,git switch
-"Originally, Android was not developed as a smartphone OS. What devices was Android developed for?",Cameras
-What is the name for this piece of shell code :(){ :|:& };:,"fork bomb (calls itself twice, recursively, results in DoS)"
-What are the four properties of ACID in the context of databases?,"Atomicity, Consistency, Isolation, Durability"
-Which programming language was created by Google in 2009?,Go
-What do you call the creature in the GitHub logo?,Octocat
-Which is the latest HTML version?,HTML5
-What does JSON abbreviation stand for?,JavaScript Object Notation
-Which popular command line editor uses Escape key to switch between different editing modes?,vim
-What is the name of Apple's first virtual reality headset?,Vision Pro
-What does the abbreviation SSH stand for?,Secure SHell
-What does the abbreviation DNS stand for?,Domain Name System
-What does the abbreviation IT stand for?,Information Technology
-What is the world's best-selling PC game?,Minecraft
-"What is the name of the data structure that stores elements in a last-in, first-out (LIFO) order?",Stack
-What CPU architecture was used in PlayStation 3 and Macintosh computers until 2006?,PowerPC
-Which popular command line editor is known for its extensibility was created by Richard Stallman in 1976?,emacs
-What was the original maximum character limit for a tweet on Twitter?,140 characters
-Which programming language was created by Mozilla in 2010?,Rust
-"What feature, introduced in CSS3, makes it easier to align and center elements?","flex, Flexbox, Flexible Box Layout module"
-Which git subcommand applies selected commit on a current branch?,git cherry-pick
-What C compiler is developed by GNU Project / Free Software Foundation?,GCC
-Which popular library provides developers with more direct access to NVIDIA GPU capabilities? ,CUDA
-Who is the CEO of OpenAI?,Sam Altman
-"What does the abbreviation RAM, the computer component, stand for?",Random Access Memory
-"In 2010, the U.S. Air Force used over 1,000 game consoles to build a supercomputer: Which consoles they used?",PlayStation 3 (I would not require the version)
-What does the abbreviation USB stand for?,Universal Serial Bus
-What is the name for critical unrecoverable Windows error?,Blue Screen Of Death
-"What is the keyword that ends an ""if"" statemant in Bash",fi
-What is the name of car infotainment software used to connect to Android smartphones?,Android Auto
-What is the name of the most common open-source package manager on macOS?,Homebrew
-Which brand of phones and tablets was made by Google in collaboration with other hardware manufacturers?,Google Nexus
-What prevents Python to run multiple threads at the same time?,Global Interpreter Lock (GIL)
-"What is the name of the data structure that stores elements in a first-in, first-out (FIFO) order?",Queue
-Which technology has replaced BIOS in newer motherboards?,UEFI
-What JavaScript operator compares two values without performing type coercion? I.e. without automatic type conversion,"""==="""
-What is the name of webcomic created by Randall Monroe?,xkcd
-What is the name of the original algorithm behind Google search?,PageRank
-What is the name of the first company from the TV show Silicon Valley founded by Richard Hendricks?,Pied Piper
+answer,question
+Graphics Interchange Format,"What does the abbreviation GIF, the image format, stand for?"
+Java,What programming language is named after a type of Indonesian coffee?
+The Hitchhiker's Guide to the Galaxy / Stopařův průvodce po galaxii,"Which movie has popularized the number 42 as ""an answer to everything""?"
+chmod,Which Linux command is used to change permissions on a file?
+1TB (all disks are fully mirrored),You have 3 hard drives in RAID 1? Each disk is 1 TB. How much available space do you have?
+Idempotence,"In context of HTTP requests, some actions can be repeated multiple times without changing the result. What is the name for this property?"
+A dinosaur (T-rex),Google Chrome has a hidden mini-game that involves what creature?
+Salt,What do you call a random input added to hash functions to defend against dictionary attacks and precomputed hash tables?
+What You See Is What You Get,"In context of text or document editors, what does the abbreviation WYSIWYG stand for?"
+Gentoo Linux,Which Linux distribution is famous for NOT providing precompiled packages?
+1.44 MB,What is the capacity of standard 3.5-inch floppy disks?
+Half-Life,What was the first game developed by Valve?
+Clippy the paperclip,What is the name of paperclip appearing in Microsoft Office 97-03
+Uninterruptible Power Supply,"What does UPS, the device with batteries, stand for?"
+"Create, Read, Update, and Delete",What are the four operations in CRUD acronym?
+Grace Hopper,Which woman invented programming languages and compilers? She created COBOL.
+Moore's Law,What is the name of the law which states that the number of transistors on computer chips doubles approximately every two years?
+mkdir,What is the name of the command in Linux used to create a new directory?
+Clang (LLVM),What C compiler is developed by Apple Inc.?
+Debian,Which Linux distribution is Ubuntu based on?
+CSRF token,What should you use to protect forms on your website from cross site request forgery attacks?
+Rust,"Which language has ""unsafe"" keyword that allows programmer to do operations that are otherwise forbidden for safety reasons?"
+Graphviz,What is the name of popular open-source graphing tool that uses DOT language for describing graphs?
+Go,Which language uses the following operator to declare and initialize a new variable? :=
+Minecraft,"What game was developed by programmer with pseudonym ""Notch"" and later sold to Microsoft?"
+"2TB (one disk for parity, rest for data)",You have 3 hard drives in RAID 5? Each disk is 1 TB. How much available space do you have?
+Oculus Rift,What is the name of Facebook's first virtual reality headset?
+Arch Linux,Which Linux distribution is famous for NOT having any graphical installation tool?
+GitHub,Which company has first started using the term Pull Request?
+C++,What is the name of the computer programming language developed by Bjarne Stroustrup at Bell Labs in the 1980s?
+esac,"What is the keyword that ends a ""case"" statemant in Bash"
+Ada Lovelace,Who is widely regarded as the first computer programmer?
+"Tenkeyless, TKL (""ten keys less""), (""85% keyboard"" is technically correct)",What is a common name for a keyboard size that doesn't include the number pad but keeps function keys and arrow keys?
+Fast inverse square root,What famous highly optimized algorithm was used in Quake III Arena?
+Google Pixel,"What is the brand of phones, other electronics and accessories made by Google?"
+Pied Piper,What is the name of the first company from the TV show Silicon Valley founded by Richard Hendricks?
+Python,What is the name of the programming language developed by Guido van Rossum in the late 1980s?
+"Merge, Rebase, (Cherry-pick and Diff apply are also technically correct)",What two common git operations can you use to get changes from one git branch to another?
+IBM,Which company invented the hard disk drive and introduced first commercial HDD in 1956?
+A Monty Python skit (from the 70s),"What is the origin of the word ""spam"" in the context of email spam?"
+Dijkstra,What is the name of a famous path-finding graph algorithm named after its author?
+Google Inbox,Which product for managing and sending email was introduced in 2014 and then later killed in 2018 by Google?
+VirtualBox,What is the name of the popular virtualization software developed by Oracle?
+PageRank,What is the name of the original algorithm behind Google search?
+xkcd,What is the name of webcomic created by Randall Monroe?
+Double-shot keycaps,Which type of premium keyboard keycaps uses two different kind of plastic for labels and one for the keycap itself?
+GNU's Not Unix,GNU project is responsible for many contributions to Linux operating systems. What does the abbreviation GNU stand for?
+New Technology,What does NT in Windows NT and NTFS stand for?
+"Consistency, Availability, Partition Tolerance (Partitioning)",What are the three properties of databases in CAP theorem?
+Java,What is the name of the programming language developed by James Gosling at Sun Microsystems in the mid-1990s?
+Canoncial Ltd.,Which company is developing Ubuntu Linux distribution?
+Cross-Site Scripting,"In context of web security, what does XSS abbreviation stand for?"
+Donald Knuth,"Who created the TeX typesetting system and wrote ""The Art of Computer Programming"" book series?"
+Ruby,"Which language uses convention that methods ending with ""?"" return boolean values and methods ending with ""!"" mutate the instance?"
+vim,Which popular command line editor uses Escape key to switch between different editing modes?
+CarPlay,What is the name of car infotainment software used to connect to Apple iPhones?
+CSS3,Which is the latest CSS version?
+Google Nexus,Which brand of phones and tablets was made by Google in collaboration with other hardware manufacturers?
+touch,What is the name of the command in Linux used to update access and modification times of files?
+"Red Hat, Inc.",Which company is maintaining CentOS and Fedora Linux distributions?
+Blue Screen Of Death,What is the name for critical unrecoverable Windows error?
+Out-of-memory (OOM) killer,"When running out of memory, Linux will attempt to free up memory by terminating processes. How is this mechanism is called?"
+"fork bomb (calls itself twice, recursively, results in DoS)",What is the name for this piece of shell code :(){ :|:& };:
+"Atomicity, Consistency, Isolation, Durability",What are the four properties of ACID in the context of databases?
+Global Interpreter Lock (GIL),What prevents Python to run multiple threads at the same time?
+Octocat,What do you call the creature in the GitHub logo?
+HTML5,Which is the latest HTML version?
+PlayStation 3 (exact version not required),"In 2010, the U.S. Air Force used over 1,000 game consoles to build a supercomputer: Which consoles they used?"
+git switch,Which git subcommand that can be used to jump between branches was added to git in 2019?
+140 characters,What was the original maximum character limit for a tweet on Twitter?
+JavaScript Object Notation,What does JSON abbreviation stand for?
+UEFI,Which technology has replaced BIOS in newer motherboards?
+Rainbow table,What do you call a large list of precomputed hashes and matching values?
+"flex, Flexbox, Flexible Box Layout module","What feature, introduced in CSS3, makes it easier to align and center elements?"
+Cameras,"Originally, Android was not developed as a smartphone OS. What devices was Android developed for?"
+fi,"What is the keyword that ends an ""if"" statemant in Bash"
+CUDA,Which popular library provides developers with more direct access to NVIDIA GPU capabilities?
+Vision Pro,What is the name of Apple's first virtual reality headset?
+Secure SHell,What does the abbreviation SSH stand for?
+Stack,"What is the name of the data structure that stores elements in a last-in, first-out (LIFO) order?"
+"""===""",What JavaScript operator compares two values without performing type coercion? I.e. without automatic type conversion
+Android Auto,What is the name of car infotainment software used to connect to Android smartphones?
+Information Technology,What does the abbreviation IT stand for?
+PowerPC,What CPU architecture was used in PlayStation 3 and Macintosh computers until 2006?
+Go,Which programming language was created by Google in 2009?
+emacs,Which popular command line editor is known for its extensibility was created by Richard Stallman in 1976?
+Random Access Memory,"What does the abbreviation RAM, the computer component, stand for?"
+John Carmack,"Who is the creator of the video game engines used in Doom, Quake, and Rage?"
+Minecraft,What is the world's best-selling PC game?
+Homebrew,What is the name of the most common open-source package manager on macOS?
+git cherry-pick,Which git subcommand applies selected commit on a current branch?
+Queue,"What is the name of the data structure that stores elements in a first-in, first-out (FIFO) order?"
+HyperText Transfer Protocol,What does HTTP abbrevition stand for?
+Universal Serial Bus,What does the abbreviation USB stand for?
+Windows PowerShell,What is the default Windows command line shell since Windows 10?
+Nothing,"Carl Pei, the co-founder of OnePlus, left OnePlus and founded a new brand making earbuds and smartphones in 2021? Which brand?"
+End User License Agreement,What does EULA abbreviation stand for?
+Rust,Which programming language was created by Mozilla in 2010?
+Internet Service Provider,What does the abbreviation ISP stand for?
+Sam Altman,Who is the CEO of OpenAI?
+GCC,What C compiler is developed by GNU Project / Free Software Foundation?
+GitHub Copilot,What is the name of the AI-powered code completion tool developed by Microsoft and OpenAI that was released in 2021?
+Domain Name System,What does the abbreviation DNS stand for?
